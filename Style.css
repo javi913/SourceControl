@@ -1,0 +1,29 @@
+body {
+    margin:3em;
+    line-height:180%;
+}
+
+
+
+#text1 li{
+    list-style-type: none;
+}
+
+#calculated-grades {
+     font-size:1.3em;
+     font-weight:bold;
+     line-height:1.8em;
+}
+
+#enter1 {
+   padding:1em;
+}
+
+#grades {
+     font-size:1.1em;
+}
+
+#flex {
+    display:flex;
+    width:80%;
+}
